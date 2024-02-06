@@ -1,0 +1,19 @@
+<map id="iop/kernel/include/vblank.h" name="iop/kernel/include/vblank.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="634,5,757,46"/>
+<area shape="rect" id="Node000002" href="$iop_2dev9_2extflash_2src_2irx__imports_8h_source.html" title=" " alt="" coords="5,94,146,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="619,37,410,59,157,97,146,99,145,93,156,91,410,54,619,31"/>
+<area shape="rect" id="Node000003" href="$iop_2system_2padman_2src_2irx__imports_8h_source.html" title=" " alt="" coords="169,94,326,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="619,43,337,97,326,99,325,94,336,91,618,38"/>
+<area shape="rect" id="Node000004" href="$pad_init_8c.html" title=" " alt="" coords="349,94,506,135"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="621,54,489,96,488,91,619,49"/>
+<area shape="rect" id="Node000005" href="$pad_misc_funcs_8c.html" title=" " alt="" coords="529,94,686,135"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="667,59,629,95,626,92,663,55"/>
+<area shape="rect" id="Node000006" href="$iop_2system_2rmman_2src_2irx__imports_8h_source.html" title=" " alt="" coords="710,94,860,135"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="729,55,766,92,763,95,725,59"/>
+<area shape="rect" id="Node000007" href="$rmman_8c_source.html" title=" " alt="" coords="884,94,1035,135"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="770,49,900,91,899,96,769,54"/>
+<area shape="rect" id="Node000008" href="$iop_2usb_2camera_2src_2irx__imports_8h_source.html" title=" " alt="" coords="1059,94,1191,135"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="773,38,1047,91,1059,94,1058,99,1046,97,772,43"/>
+<area shape="rect" id="Node000009" href="$iop_2usb_2usbd_2src_2irx__imports_8h_source.html" title=" " alt="" coords="1215,94,1349,135"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="772,32,968,55,1204,91,1215,94,1214,99,1203,97,968,60,772,37"/>
+</map>
